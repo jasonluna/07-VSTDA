@@ -1,0 +1,15 @@
+body{
+margin:10%;
+
+}
+/*style table with priority*/
+.cLow{
+background-color: rgba(17,161,228,.3);
+
+}
+.bMedium{
+	background-color: rgba(228,224,17,.3);
+}
+.aHigh{
+	background-color: rgba(228,17,17,.3);
+}

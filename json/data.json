@@ -1,0 +1,31 @@
+[
+	{
+        "name": "don't code all day",
+        "priority": "cLow"
+    },
+    {
+        "name": "don't code all day",
+        "priority": "cLow"
+    },
+    {
+        "name": "code half day",
+        "priority": "bMedium"
+    },
+    {
+        "name": "code half day",
+        "priority": "bMedium"
+    },
+    {
+        "name": "code all day",
+        "priority": "aHigh"
+    },
+    {
+        "name": "code all day",
+        "priority": "aHigh"
+    },
+    {
+        "name": "code all day",
+        "priority": "aHigh"
+    }
+
+]
